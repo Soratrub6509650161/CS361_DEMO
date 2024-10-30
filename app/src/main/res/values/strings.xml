@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Cs361v.2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_icon">Icon_user</string>
+    <string name="pocket">Pocket</string>
+    <string name="ach_icon">achicon</string>
+    <string name="history">History</string>
+    <string name="goal_text">Goal</string>
+    <string name="daily_goal_editText">Daily Goal</string>
+    <string name="no_transactions_available">No transactions available</string>
+    <string name="add_income">Add income</string>
+    <string name="salary">Salary</string>
+    <string name="other_income">Other Income</string>
+    <string name="transfer_in">Transfer In</string>
+    <string name="interest_income">Interest Income</string>
+    <string name="food_beverages"><![CDATA[Food & Beverages]]></string>
+    <string name="bills_utilities"><![CDATA[Bills & Utilities]]></string>
+    <string name="shopping">Shopping</string>
+    <string name="family">Family</string>
+    <string name="travel">Travel</string>
+    <string name="health_fitness"><![CDATA[Health & Fitness]]></string>
+    <string name="education">Education</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="giving_donations"><![CDATA[Giving & Donations]]></string>
+    <string name="insurance">Insurance</string>
+    <string name="investment">Investment</string>
+    <string name="other_expenses">Other Expenses</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="income">Income</string>
+    <string name="outcome">Outcome</string>
+    <string name="add">Add</string>
+    <string name="enter_amount">Enter Amount</string>
+</resources>
