@@ -31,4 +31,7 @@
     <string name="outcome">Outcome</string>
     <string name="add">Add</string>
     <string name="enter_amount">Enter Amount</string>
+    <string name="conclusion">Conclusion</string>
+    <string name="search_date">Search Date</string>
+    <string name="calendar_icon">Calendar Icon</string>
 </resources>
